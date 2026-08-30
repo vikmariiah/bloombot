@@ -1,0 +1,4 @@
+sdk.dir=/path/to/your/Android/sdk
+MAPBOX_DOWNLOADS_TOKEN=sk.paste_your_secret_token_here
+MAPBOX_ACCESS_TOKEN=pk.paste_your_public_token_here
+CLAUDE_API_KEY=sk-ant-paste_your_claude_key_here
