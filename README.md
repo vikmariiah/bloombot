@@ -1,8 +1,12 @@
 # 🌸Bloombot🌸
 
+This was a group project for **IN2000 - Software Engineering with Project Work**, completed as part of our studies.
 
-## 🌱 About the app
-<img width="5025" height="3350" alt="bloombot-mockup" src="https://github.uio.no/user-attachments/assets/8f6c68a6-81e4-4cf7-baa8-3e2392e7b05a" />
+<br>
+We received an A for this project.
+
+
+## 🌱 About the app<img width="5025" height="3350" alt="bloombot-mockup" src="https://github.com/user-attachments/assets/3db42e6e-7f88-4008-904f-3574a31b7534" />
 
 Bloombot is a gardening app and plant diary made for hobby gardeners in Norway. The app helps you keep track of all your gardens and the individual plants within them, including logging watering and fertilizing each plant. The app uses weather data from the Meterological Institue Norway.
 
