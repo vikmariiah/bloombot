@@ -1,9 +1,11 @@
 # 🌸Bloombot🌸
 
 This was a group project for **IN2000 - Software Engineering with Project Work**, completed as part of our studies.
+The course is run in collaboration with **MET (Meteorologisk institutt)**, Norway's meteorological institute, where students build apps using MET's public weather APIs.
 
 <br>
 We received an A for this project.
+
 
 
 ## 🌱 About the app<img width="5025" height="3350" alt="bloombot-mockup" src="https://github.com/user-attachments/assets/3db42e6e-7f88-4008-904f-3574a31b7534" />
